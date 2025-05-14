@@ -1,5 +1,14 @@
 """Creating a python program on strong password generator by user details i.e (name, birth year, 
-special character, passwolrd length) and random values i.e (digits,alphabets, punctuations)"""
+special character, passwolrd length) and random values i.e (digits,alphabets, punctuations).
+The user sometimes may forgets their passwords...
+if the given values are unrelevent to them or some other cases...
+for that conflicts here we are genetating the password by user details and 
+making the password complex by giving random value"""
+#the first letter of the password is in uppercase
+#the password consists of characters
+#the password consists of digits
+#the password consists of special characters
+
 import random
 import string
 #The special characters values
